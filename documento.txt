@@ -1,0 +1,13 @@
+Este proyecto trata sobre crear un programa, que se pueda, agregar cliente, con su nombre, deuda a cobrar o a pagar, numero de telefono y se vaya guardando en listas diferentes. 
+Se pueda consultar los clientes y aparezcan la informacion
+Se pueda editar datos
+Se pueda eliminar clientes 
+
+Division de tareas:
+
+1) crear el menu
+2) probar la funcionalidad de agregar cleintes a la lista 
+3) Probar la funcionalidad de agregar todos los datos de los clientes
+4) crear el codigo de Mostrar los clientes
+5) Buscar la forma de poder editar datos ya grabados
+6) Crear la eliminacion de clientes 
